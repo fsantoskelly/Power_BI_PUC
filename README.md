@@ -6,7 +6,7 @@ As análises realizadas como parte do projeto de banco de dados do curso de Gest
 
 Como objeto de estudo foi utilizada uma unidade de Serviço de Nutrição e Dietética Hospitalar fictícia para avaliação das demandas informacionais e funcionais do locais e estabelecer KPIs estratégicas que impactam diretamente na segurança do paciente. 
 Foram eleitos dois indicadores estratégicos do setor para se trabalhar com as análises e identificar pontos de melhoria, conforme demonstramos a seguir. Visando a melhoria contínua, julgamos seu monitoramento e análise crítica primordiais para estabelecer ações e frente que englobam não apenas o Serviço de Nutrição, quanto demais setores envolvidos nos resultados. 
-Serão observados a seguir as análises dos seguintes KPIs: Absenteísmo de colaboradores e Percentual de Infusão de Dietas Enterais.
+Serão observadas a seguir as análises dos seguintes KPIs: Absenteísmo de colaboradores e Percentual de Infusão de Dietas Enterais.
 
 ## Absenteísmo de colaboradores
 
