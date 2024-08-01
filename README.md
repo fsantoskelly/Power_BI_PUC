@@ -68,4 +68,4 @@ A maior taxa de absenteísmo encontra-se na equipe de copeiras do turno da tarde
 
 ## Percentual de Infusão de Dietas
 
-Os dados encontrados expõem pontos de preocupação relacionados às unidades internação que apresentam menores taxas de adequação. É relevante a utilização de mecanismos que investiguem e tracem planos de ação para compreender as causas da baixa taxa de adequação das dietas administradas em pacientes que já possuem diagnóstico de desnutrição e os pacientes eutóricos, a fim de prevenir a desnutrição intrahospitalar e mitigar os riscos de mortalidade. 
+Os dados encontrados expõem pontos de preocupação relacionados às unidades internação que apresentam menores taxas de adequação. É relevante a utilização de mecanismos que investiguem e tracem planos de ação para compreender as causas da baixa taxa de adequação das dietas administradas em pacientes que já possuem diagnóstico de desnutrição e os pacientes eutróficos, a fim de prevenir a desnutrição intrahospitalar e mitigar os riscos de mortalidade. 
