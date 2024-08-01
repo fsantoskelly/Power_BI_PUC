@@ -10,7 +10,7 @@ Serão observadas a seguir as análises dos seguintes KPIs: Absenteísmo de cola
 
 ## Absenteísmo de colaboradores
 
-Absenteísmo dos colaboradores: Refere-se à frequência e duração das ausências não programadas dos funcionários do trabalho, seja por motivos de saúde, problemas pessoais ou outras razões não relacionadas ao trabalho. O absenteísmo pode ter um impacto significativo nas operações e no desempenho geral da empresa, incluindo a produtividade, a moral da equipe, a qualidade do trabalho e os custos associados à contratação de substitutos ou horas extras.  
+Refere-se à frequência e duração das ausências não programadas dos funcionários do trabalho, seja por motivos de saúde, problemas pessoais ou outras razões não relacionadas ao trabalho. O absenteísmo pode ter um impacto significativo nas operações e no desempenho geral da empresa, incluindo a produtividade, a moral da equipe, a qualidade do trabalho e os custos associados à contratação de substitutos ou horas extras.  
 Existem várias causas potenciais para o absenteísmo dos colaboradores, incluindo: Doenças e Lesões; Problemas Pessoais; Insatisfação no Trabalho; Cultura Organizacional e Condições de Trabalho. Ao cruzar os dados das escalas dos colaboradores com o número de faltas cometidas em um período de 30 dias, estes deverão ser classificados de acordo com o cargo exercido e o turno de trabalho. Desta forma, é possível realizar uma análise críticas das informações para elaborar planos de ação futuros de acordo com os principais motivos levantados. 
 
 ![Visualização do dataset: Absenteísmo de Colaboradores](https://github.com/kellyfsantos/Power_BI_PUC/blob/main/Print%20planilha%20absente%C3%ADsmo.png)
