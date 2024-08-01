@@ -1,6 +1,6 @@
 # Análise de KPIs de um Serviço de Nutrição Hospitalar Fictício
 
-As análises realizadas como parte do projeto de banco de dados do curso de Gestão da Tecnologia da Informação PUC-Minas. Todos os dados apresentados os datasets são fictícios, criados de forma randomizadas po IA para preenchimento das colunas e simulação dos resultados.
+As análises realizadas como parte do projeto de banco de dados do curso de Gestão da Tecnologia da Informação PUC-Minas. Todos os dados apresentados nos datasets são **fictícios**, criados de forma randomizadas po IA para preenchimento das colunas e simulação dos resultados.
 
 ## Apresentação do Escopo do Projeto
 
