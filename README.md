@@ -44,6 +44,8 @@ O gráfico de barras demonstra claramente que a maior parte das ausências ocorr
 
 ## Percentual de Infusão de Dietas
 
+![Dashboard Percentual de Infusão de Dietas[(https://github.com/kellyfsantos/Power_BI_PUC/blob/main/Dashboard%20Infus%C3%A3o.png)
+
 ### Comparativo entre calorias prescritas e calorias infundidas por unidade de internação
 
 Observa-se que nenhuma das unidades de internação apresentam simularidade entre as calorias prescritas e as calorias infundidas, porém a maior disporidade encontra-se na Unidade de Internação Bloco 4 e a maior proximidade, na Unidade de Internação Bloco 2.
