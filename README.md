@@ -44,7 +44,7 @@ O gráfico de barras demonstra claramente que a maior parte das ausências ocorr
 
 ## Percentual de Infusão de Dietas
 
-![Dashboard Percentual de Infusão de Dietas[(https://github.com/kellyfsantos/Power_BI_PUC/blob/main/Dashboard%20Infus%C3%A3o.png)
+![Dashboard Percentual de Infusão de Dietas](https://github.com/kellyfsantos/Power_BI_PUC/blob/main/Dashboard%20Infus%C3%A3o.png)
 
 ### Comparativo entre calorias prescritas e calorias infundidas por unidade de internação
 
