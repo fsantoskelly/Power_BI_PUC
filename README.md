@@ -1,5 +1,7 @@
 # Análise de KPIs de um Serviço de Nutrição Hospitalar Fictício
 
+💹 O dashboard completo pode ser visualizado 🔗 [**aqui**](https://app.powerbi.com/view?r=eyJrIjoiMWNlYTM1NzctMWVmNS00OGI1LTk4ZTItN2ViYTJmYWU4YjA4IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
+
 As análises realizadas como parte do projeto de banco de dados do curso de Gestão da Tecnologia da Informação PUC-Minas. Todos os dados apresentados nos datasets são **fictícios**, gerados de forma randomizada por IA para preenchimento das colunas e simulação dos resultados.
 
 ## Apresentação do Escopo do Projeto
